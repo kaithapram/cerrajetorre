@@ -1,0 +1,31 @@
+title: Cerrajeros Torrevieja
+email: your-email@domain.com
+description: En el mundo de la Cerrajería de Urgencia, los imprevisibles suceden habitualmente, en consecuencia nuestros Cerrajeros Torrevieja 24 horas están siempre prestos a asistir en su ayuda si ha perdido las llaves la persiana de su local se ha bloqueado.
+
+baseurl: "/"
+url: https://cerrajerostorrevieja.online
+google_adsense: Your-adsense-code
+
+markdown: kramdown
+
+name: Cerrajeros Torrevieja
+
+date: 2019-05-23 02:07:06 +0000
+
+
+logo: false
+sass:
+    load_paths:
+        - _sass
+        - bs
+paginate: 10
+adsid: ca-pub-8582082279264878
+domain_name: https://cerrajerostorrevieja.online/
+google_analytics: UA-31XXXXXX-X
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+cover: 
+author_image: 
+
+author: cerrajetorre
